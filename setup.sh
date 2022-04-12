@@ -1,5 +1,5 @@
 # Create and activate conda environment
-mamba env create -f environment_setup/environment.yml -p ~/envs/ligo
+mamba env create -f environment.yml -p ~/envs/ligo
 conda activate ligo
 
 # Install kernel for jupyter notebook
