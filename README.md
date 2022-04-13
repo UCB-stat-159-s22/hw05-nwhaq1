@@ -1,6 +1,6 @@
 ## Fine-tuning reproduciblity of LIGO Black Hole signal tutorial
 
-https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-nwhaq1/HEAD?labpath=index.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s22/hw05-nwhaq1/HEAD?labpath=index.ipynb)
 
 Please select "Python 2" as the kernel when running index.ipynb. 
 
